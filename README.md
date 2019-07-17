@@ -17,3 +17,8 @@ Move the WaterBucket folder to AppData/Roaming/.minecraft/saves/(savename)/datap
 
 Vala,
 Kodo
+
+
+## License
+
+This project is covered by the MIT License.
