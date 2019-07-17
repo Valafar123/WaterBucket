@@ -10,7 +10,7 @@ WaterBucket is a survial rebalance and quality-of-life mod for Minecraft Java Ed
 
 ## Install Instructions
 
-Move the WaterBucket folder to AppData/Roaming/.minecraft/saves/<savename>/datapacks
+Move the WaterBucket folder to AppData/Roaming/.minecraft/saves/(savename)/datapacks
 
 
 ## Contributors
