@@ -1,0 +1,21 @@
+{
+    "type": "crafting_shaped",
+	"group": "concrete",
+    "pattern": [
+        "AAA",
+        "ABA",
+        "AAA"
+    ],
+    "key": {
+        "A": {
+            "item": "minecraft:light_gray_concrete_powder"
+        },
+        "B": {
+            "item": "minecraft:water_bucket"
+        }
+    },
+    "result": {
+		"item": "minecraft:light_gray_concrete",
+		"count": 8
+	}
+}

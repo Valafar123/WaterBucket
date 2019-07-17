@@ -1,0 +1,19 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "AA",
+        "BB"
+    ],
+    "key": {
+        "A": {
+            "item": "minecraft:grass_block"
+        },
+        "B": {
+            "item": "minecraft:dirt"
+        }
+    },
+    "result": {
+		"item": "minecraft:grass_path",
+		"count": 4
+	}
+}

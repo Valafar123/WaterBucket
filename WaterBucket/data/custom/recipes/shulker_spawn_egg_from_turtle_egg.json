@@ -1,0 +1,29 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "CBC",
+        "DAD",
+        "EBE"
+    ],
+    "key": {
+        "A": {
+            "item": "minecraft:turtle_egg"
+        },
+        "B": {
+            "item": "minecraft:shulker_shell"
+        },
+		"C": {
+            "item": "minecraft:enchanted_golden_apple"
+        },
+		"D": {
+            "item": "minecraft:nether_star"
+        },
+		"E": {
+            "item": "minecraft:end_crystal"
+        }
+    },
+    "result": {
+		"item": "minecraft:shulker_spawn_egg",
+		"count": 1
+	}
+}
