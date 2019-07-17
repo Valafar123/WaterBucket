@@ -1,0 +1,20 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "ABA",
+        "BAB",
+        "ABA"
+    ],
+    "key": {
+        "A": {
+            "item": "minecraft:stone"
+        },
+        "B": {
+            "item": "minecraft:flint"
+        }
+    },
+    "result": {
+		"item": "minecraft:diorite",
+		"count": 9
+	}
+}
