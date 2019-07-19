@@ -37,6 +37,7 @@
 * Granite: OLD 1 Quartz + 1 Diorite = 1 Granite ---> NEW 5 Stone + 4 Flint = 9 Granite.
 * Andesite: OLD 1 Diorite + 1 Cobblestone = 2 Andesite ---> NEW 5 Stone + 4 Flint = 9 Andesite.
 * Snow: OLD 3 Snow Blocks = 6 Snow ---> NEW 3 Snow Blocks = 12 Snow.
+* Blast Furnace: OLD: 3 Smooth Stone + 5 Iron Ingots + 1 Furnace = 1 Blast Furnace ---> 3 Stone + 5 Iron Ingots + 1 Furnace = 1 Blast Furnace
 
 
 ### New Shaped Recipes
