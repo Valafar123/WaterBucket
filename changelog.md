@@ -1,4 +1,8 @@
-### WaterBucket v1.1 (MC 1.14.4+)
+### WaterBucket v1.2 (MC 1.14.4+)
+
+* Fixed Blast Furnace being unobtainable without a Village. New Recipe.
+
+### WaterBucket v1.1 (MC 1.14.4)
 
 * Arrow recipe now yields 8 Arrows instead of 4.
 * Removed Arrow drops from Skeletons and Strays.
