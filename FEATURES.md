@@ -18,7 +18,7 @@
 * Husks now also drop 0-2 Sand, and have a 5% to drop a Dead Bush.
 * Strays now also drop 0-2 Ice.
 * Ghasts now also drop 2-3 Quartz.
-* Iron Golemns now also drop 0-1 Vines.
+* Iron Golems now also drop 0-1 Vines.
 
 ## Crafting
 
