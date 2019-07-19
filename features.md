@@ -28,7 +28,7 @@
 
 * Arrow: OLD 1 Feather + 1 Stick + 1 Flint = 4 Arrows ---> NEW 1 Feather + 1 Stick + 1 Flint = 8 Arrows
 * Stairs: OLD 6 Blocks = 4 Stairs ---> NEW 6 Blocks = 8 Stairs.
-* Quartz Block: OLD 4 Quartz = 1 Quartz Block ---> NEW 4 4 Quartz = 4 Quartz Blocks.
+* Quartz Block: OLD 4 Quartz = 1 Quartz Block ---> NEW 4 Quartz = 4 Quartz Blocks.
 * Wood (6-faced): OLD 4 Logs = 3 Wood ---> NEW 4 Logs = 4 Wood.
 * Carpet: OLD 2 Wool = 3 Carpet ---> NEW 2 Wool = 8 Carpet.
 * Packed Ice: OLD 9 Ice = 1 Packed Ice ---> NEW 4 Ice = 1 Packed Ice.
