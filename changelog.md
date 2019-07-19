@@ -1,6 +1,8 @@
 ### WaterBucket v1.1 (MC 1.14.4+)
 
-* Removed all Silverfish drops
+* Arrow recipe now yields 8 Arrows instead of 4.
+* Removed Arrow drops from Skeletons and Strays.
+* Removed all Silverfish drops.
 * New functionality for Infested Blocks: Will always drop Gravel by default (even when broken by a Silverfish). Drops the appropriate Infested Block when mined with a Silk Touch Pickaxe.
 * Adjusted Snow shaped recipe. Now matches vanilla shaped recipe, but with new yields.
 
