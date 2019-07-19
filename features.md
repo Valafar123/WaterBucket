@@ -19,11 +19,14 @@
 * Strays now also drop 0-2 Ice.
 * Ghasts now also drop 2-3 Quartz.
 * Iron Golems now also drop 0-1 Vines.
+* Skeletons no longer drop arrows.
+* Strays no longer drop arrows.
 
 ## Crafting
 
 ### Shaped Crafting Tweaks
 
+* Arrow: OLD 1 Feather + 1 Stick + 1 Flint = 4 Arrows ---> NEW 1 Feather + 1 Stick + 1 Flint = 8 Arrows
 * Stairs: OLD 6 Blocks = 4 Stairs ---> NEW 6 Blocks = 8 Stairs.
 * Quartz Block: OLD 4 Quartz = 1 Quartz Block ---> NEW 4 4 Quartz = 4 Quartz Blocks.
 * Wood (6-faced): OLD 4 Logs = 3 Wood ---> NEW 4 Logs = 4 Wood.
