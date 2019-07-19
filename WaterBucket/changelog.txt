@@ -1,11 +1,13 @@
-### WaterBucket 1.14.3 v0.1 ###
+### WaterBucket v1.1
+
+> Removed all Silverfish drops
+> New functionality for Infested Blocks: Will always drop Gravel by default (even when broken by a Silverfish). Drops the appropriate Infested Block when mined with a Silk Touch Pickaxe.
+
+### WaterBucket v1.0
 
 > Increased the amount of all Stairs yielded per shaped craft from 4 to 8. Stonecutter unaffected.
 > Increased the amount of Quartz yielded when Quartz Ore is mined to be the same as Lapis Lazuli.
 > Increased the amount of Quartz blocks yielded per craft from 1 to 4.
-
-### WaterBucket 1.14.3 v0.2 ###
-
 > Increased the amount of all Wood Blocks yielded per craft from 3 to 4.
 > Increased the amount of Carpet yielded per craft from 3 to 8.
 > Increased the amount of Raw Pork dropped by Pigs.
@@ -15,9 +17,6 @@
 > Added shaped recipe for Clay Blocks which uses 8 Dirt and 1 Water Bucket.
 > Added shaped recipe for Shulker Spawn Egg which uses 2 Nether Stars, 2 Shulker Shells, 2 End Crystals, 2 Enchanted Golden Apples, and 1 Turtle Egg, and yields 1 Shulker Spawn Egg. (Tip: Use it to convert a Spawner)
 > Added shaped recipe for Dragon Egg which uses 2 Nether Stars, 1 Dragon Egg, 1 Dragon Breath, 2 End Crystals, 2 Enchanted Golden Apples, and 1 Turtle Egg, and yields 2 Dragon Eggs.
-
-### WaterBucket 1.14.3 v0.3 ###
-
 > Added shaped recipes for Stripped Wood which use Stripped Logs.
 > Added shaped recipe for Red Sand which uses 8 Sand and 1 Red Dye.
 > Added shaped recipe for Grass Path which uses 2 Grass and 2 Dirt, and yields 4 Grass Paths.
@@ -29,9 +28,6 @@
 > Rotten Flesh can now be cooked in a Smoker for 4000 ticks to create Leather.
 > Smooth Stone is now created in a Blast Furnace by smelting Cobblestone or Stone. (Stone twice as fast but yields half XP)
 > Bats now have a chance to drop 0-1 Black Wool. Affected by Looting.
-
-### WaterBucket 1.14.3 v1.0 ###
-
 > Husks now also have a chance to drop 0-2 Sand and have a chance to drop 1 Dead Bush with Looting. Affected by Looting.
 > Husks now also have a 5% chance to drop a Dead Bush. Affected by Looting.
 > Strays now also have a chance to drop 0-2 Ice. Affected by Looting.
