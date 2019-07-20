@@ -3,15 +3,14 @@
   "pattern": [
     "###",
     "###",
-    "###"
+	"###"
   ],
   "key": {
     "#": {
-      "item": "minecraft:rotten_flesh"
+      "tag": "custom:organic"
     }
   },
   "result": {
-    "item": "minecraft:dirt",
-	"count": 3
+    "item": "minecraft:dirt"
   }
 }
