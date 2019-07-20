@@ -1,3 +1,8 @@
+### WaterBucket v1.3 (dev build)
+
+* Skeletons now drop Skeleton Skulls at the same rate Wither Skeletons drop Wither Skeleton Skulls.
+* Nerfed Quartz yield from Nether Quartz Ore slightly (OLD 6-9 ---> NEW 3-6)
+
 ### WaterBucket v1.2 (MC 1.14.4+)
 
 * Fixed Blast Furnace being unobtainable without a Village. New Recipe.
