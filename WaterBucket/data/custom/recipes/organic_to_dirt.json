@@ -1,19 +1,20 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "###",
-    "#X#",
-    "###"
-  ],
-  "key": {
-    "#": {
-      "tag": "custom:organic"
+    "type": "crafting_shaped",
+    "pattern": [
+        "AAA",
+        "ABA",
+        "AAA"
+    ],
+    "key": {
+        "A": {
+            "tag": "custom:organic"
+        },
+        "B": {
+            "item": "minecraft:bone_meal"
+        }
     },
-    "X": {
-      "tag": "minecraft:bone_meal"
-    },
-  "result": {
-    "item": "minecraft:dirt",
-    "count": 4
-  }
+    "result": {
+		"item": "minecraft:dirt",
+		"count": 4
+	}
 }
