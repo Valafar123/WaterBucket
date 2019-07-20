@@ -1,7 +1,11 @@
 ### WaterBucket v1.3 (dev build)
 
 * Skeletons now drop Skeleton Skulls at the same rate Wither Skeletons drop Wither Skeleton Skulls.
-* Nerfed Quartz yield from Nether Quartz Ore slightly (OLD 6-9 ---> NEW 3-6)
+* Nerfed Quartz yield from Nether Quartz Ore slightly (OLD 6-9 ---> NEW 3-6).
+* Changed Dirt shaped recipe (OLD 9 Rotten Flesh = 3 Dirt ---> NEW 8 compostable items + 1 Bone Meal = 4 Dirt).
+* Added Soul Sand shaped recipe (8 Sand / Red Sand + 1 mob head = 8 Soul Sand).
+* Added new item tag for composter-compatible items.
+* Added new item tag for non-player mob heads.
 
 ### WaterBucket v1.2 (MC 1.14.4+)
 
