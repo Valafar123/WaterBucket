@@ -4,7 +4,7 @@
 
 ### Block Drop Tweaks
 
-* Nether Quartz Ore now drops the same amount of Quartz as Lapis Lazuli Ore drops Lapis Lazuli.
+* Nether Quartz Ore now drops 3-6 Quartz as opposed to 1.
 * Grass Path blocks can now be mined with Silk Touch.
 * Infested Blocks can now be mined with Silk Touch.
 * Infested Blocks now always drop Gravel when broken without Silk Touch (including by Silverfish).
@@ -19,6 +19,7 @@
 * Strays now also drop 0-2 Ice.
 * Ghasts now also drop 2-3 Quartz.
 * Iron Golems now also drop 0-1 Vines.
+* Skeletons now have a chance to drop Skeletons Skulls if killed by a player.
 * Skeletons no longer drop arrows.
 * Strays no longer drop arrows.
 
