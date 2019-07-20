@@ -48,7 +48,8 @@
 * Red Sand: 8 Sand + 1 Red Dye = 8 Red Sand
 * Stripped Wood (6-faced): 4 Stripped Logs = 4 Stripped Wood
 * Grass Path: 2 Grass + 2 Dirt = 4 Grass Path
-* Dirt: 9 Rotten Flesh = 3 Dirt
+* Dirt: 8 compostable items + 1 Bone Meal = 4 Dirt
+* Soul Sand: 8 Sand / Red Sand + 1 mob head = 8 Soul Sand
 * Shulker Spawn Egg: 2 Nether Stars + 2 Shulker Shells + 2 End Crystals + 2 Enchanted Golden Apples + 1 Turtle Egg = 1 Shulker Spawn Egg (TIP: Spawn Eggs can convert Spawners to spawn the same mob as the Spawn Egg instead)
 * Dragon Egg: 2 Nether Stars + 1 Dragon Egg + 1 Dragon Breath + 2 End Crystals + 2 Enchanted Golden Apples + 1 Turtle Egg = 2 Dragon Eggs
 
