@@ -1,4 +1,4 @@
-### WaterBucket v1.3 (dev build)
+### WaterBucket v1.3 (MC 1.14.4+)
 
 * Skeletons now drop Skeleton Skulls at the same rate Wither Skeletons drop Wither Skeleton Skulls.
 * Nerfed Quartz yield from Nether Quartz Ore slightly (OLD 6-9 ---> NEW 3-6).
@@ -7,7 +7,7 @@
 * Added new item tag for composter-compatible items.
 * Added new item tag for non-player mob heads.
 
-### WaterBucket v1.2 (MC 1.14.4+)
+### WaterBucket v1.2 (MC 1.14.4)
 
 * Fixed Blast Furnace being unobtainable without a Village. New Recipe.
 
