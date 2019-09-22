@@ -6,6 +6,8 @@
 * Added Soul Sand shaped recipe (8 Sand / Red Sand + 1 mob head = 8 Soul Sand).
 * Added new item tag for composter-compatible items.
 * Added new item tag for non-player mob heads.
+* Cows drop more Leather (OLD 0-2 ---> NEW 1-2)
+* Cows drop less Beef (OLD 1-3 ---> NEW 0-2)
 
 ### WaterBucket v1.2 (MC 1.14.4)
 
