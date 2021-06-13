@@ -15,7 +15,6 @@ Move the `WaterBucket` folder from this repository to the `datapacks` folder in 
 ### Contributors
 
 * Vala
-* Kodo
 
 
 ### License
