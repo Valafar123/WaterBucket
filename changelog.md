@@ -1,3 +1,9 @@
+### Waterbucket v1.4 (MC 1.18+)
+* Slimes now drop between 2 and 4 slime balls when killed
+* Confirmed that Waterbucket still works in 1.18+
+
+
+
 ### WaterBucket v1.3 (MC 1.14.4+)
 
 * Skeletons now drop Skeleton Skulls at the same rate Wither Skeletons drop Wither Skeleton Skulls.
